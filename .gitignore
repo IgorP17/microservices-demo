@@ -3,6 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+twitter-to-kafka-service/logs/
+twitter-to-kafka-services/twitter-to-kafka-service/logs/
 
 ### STS ###
 .apt_generated
