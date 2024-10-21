@@ -14,7 +14,7 @@
 	<name>microservices-demo</name>
 	<description>Microservices demo project for Spring Boot</description>
 	<modules>
-		<module>twitter-to-kafka-services</module>
+		<module>twitter-to-kafka-service</module>
 	</modules>
 	<packaging>pom</packaging>
 	<url/>
